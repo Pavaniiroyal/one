@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Pavani - DevOps Engineer</h1>
+        <h1>Pavani B- DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
@@ -189,7 +189,7 @@
             <li>Orchestration - Kubernetes</li>
             <li>Infrastructure as Code - Terraform</li>
             <li>Cloud Platforms - AWS, Azure</li>
-            <li>Monitoring - Prometheus, Grafana</li>
+            <li>Monitoring - Prometheus, Grafana,zabbix</li>
         </ul>
     </section>
 
